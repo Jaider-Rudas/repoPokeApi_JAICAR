@@ -1,0 +1,45 @@
+.jumbotron {
+    background-color: white;
+    
+}
+
+.btn-cues{
+    padding: 1rem 2rem;
+    border-radius: 300px;
+}
+
+.radius {
+    width: 100px;
+    border-radius: 300px;
+    margin-left: 10px;
+}
+
+div.container {
+    margin: -2%;
+    background-color: aliceblue;
+    max-width: 250px;
+    margin-left: -1%;
+    
+}
+
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+
+/* .menu-dashboard{
+    max-width: 150px;
+    height: 100vh ;
+    background: var(--bg-menu);
+    padding: 20px;
+    transition: max-wid .3s ease;
+}
+
+.top-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ */

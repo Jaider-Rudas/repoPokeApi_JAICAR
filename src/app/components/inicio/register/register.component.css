@@ -1,0 +1,45 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    /* background-color: aliceblue; */
+    color: aqua;
+}
+
+h1 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Rowdies', cursive;
+    font-size: 400%;
+    /* color: rgb(0, 255, 213); */
+}
+
+.form-control {
+    background-color: #000000;
+    text-align: center;
+    border-color: #99170000;
+    color: rgb(0, 255, 213);
+    border: none;
+}
+
+.btn-reg {
+    background-color: #ff161600;
+    border-color: #f05e4400; 
+}
+
+.btn-secondary {
+    background-color: #ff161600;
+    border-color: #f05e4400;
+}
+
+.text-center {
+    background-color: #ff000000;
+    background: #f05e4400;
+    border: none;
+}
